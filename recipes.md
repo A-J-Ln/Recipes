@@ -63,7 +63,7 @@ Ingredients:
 
 Instructions:
 1. Cook spaghetti according to package instructions.
-2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, salt, and pepper.
+2. In a mixing bowl, combine ground beef, bread crumbs, milk, Parmesan cheese, egg, garlic, dried basil, salt, and pepper.
 3. Form mixture into meatballs.
 4. In a large skillet, brown meatballs over medium-high heat.
 5. Add spaghetti sauce to the skillet and bring to a simmer.
@@ -77,6 +77,7 @@ Ingredients:
 - Salt and pepper to taste
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
+- 4 slices Mozzarella cheese
 - 4 hamburger buns
 - Lettuce
 - Tomato
@@ -86,7 +87,7 @@ Instructions:
 1. Preheat grill to medium-high heat.
 2. Season chicken breasts with salt and pepper and drizzle with olive oil.
 3. Grill chicken for 5-7 minutes per side or until cooked through.
-4. Top each chicken breast with a slice of Swiss cheese and let melt.
+4. Top each chicken breast with a slice of Swiss and Mozarella cheese. Let the cheese melt.
 5. Toast hamburger buns on the grill.
 6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
