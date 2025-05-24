@@ -18,11 +18,11 @@ Ingredients:
 - 1 package (10 oz) frozen chopped spinach, thawed and drained
 - 1 cup mayonnaise
 - 1 cup grated Parmesan cheese
-- 1/2 cup shredded mozzarella cheese
+- 1 cup shredded mozzarella cheese
 - 2 cloves garlic, minced
 
 Instructions:
-1. Preheat oven to 350°F.
+1. Preheat oven to 350°F (176°C).
 2. In a large mixing bowl, combine all ingredients.
 3. Transfer mixture to a 9-inch pie plate or a small baking dish.
 4. Bake for 20-25 minutes or until lightly browned and bubbly.
