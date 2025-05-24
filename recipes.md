@@ -113,3 +113,29 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Custard Pudding
+
+Ingredients:
+
+Custard:
+- 2 eggs
+- 2 egg yolks
+- 300 ml milk
+- 3 tbsp sugar
+
+Caramel:
+- 3 tbsp sugar
+- 3 tbsp water
+- 3 tbsp hot water
+
+Instructions
+1. In a pot, add 3 tbsp sugar and tbsp water for the caramel. Do not mix. Simmer under medium head until it turns golden brown. (around 3-4 mins).
+2. Once the sugar turns brown, turn the heat to low and add 3 tbsp hot water. Turn the heat off and pour into two containers.
+3. Microwave 300 ml of milk for 2 mins. In a separate bowl, add 2 eggs, 2 egg yolks, and sugar. Mix well to ensure there are no lumps.
+4. Gently pour the warm milk into the mixture in parts to prevent the egg from cooking.
+5. Strain the mixture 2-3 times before gently pouring the eggmixture into the containers with the caramel.
+6. In a pot, line the bottom with two sheets of paper towel. Then add enough water so that 50% of the container is covered. 
+7. Cook under medium heat. Once you start seeing steam, add in the pudding. Place two chopsticks under the pot lid to allow airflow. Steam for 15 mins.
+8. Cover the pudding and let it rest in the fridge for 1 hour or overnight.
+9. Before serving, use a butter knife to cut around the pudding and flip the container upside down. Serve on a plate.
